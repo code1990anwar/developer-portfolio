@@ -9,7 +9,7 @@ h1{
 .orange{
     color: orangered;
 }
-section{
+.felixable-container{
     display: flex;
     margin-bottom: 100px;
 }
